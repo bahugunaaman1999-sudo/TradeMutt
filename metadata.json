@@ -1,0 +1,6 @@
+{
+  "name": "TradeMutt – Colourful Australian Workwear & TIACS Impact",
+  "description": "Bold, conversation-starting work shirts, hi-vis, polos, and workwear for Australian tradies and apprentices. 50% of profits fund TIACS free mental health counselling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
